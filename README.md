@@ -1,5 +1,5 @@
 # Zomato-Web-Scraping
-Scraping data of Zomato Website
+Scraping the Data of Zomato Website
 
 ### Pre-Requisite
 * chromedriver.exe
